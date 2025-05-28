@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<!-- <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>About Me</title>
@@ -30,7 +30,7 @@
       text-decoration: underline;
     }
   </style>
-</head>
+</head> -->
 <body>
 
   <h1>👋 About Me</h1>
