@@ -65,8 +65,8 @@
 <hr/>
 
 <div align="center">
-  <h3>📉 Comprehensive Activity</h3>
-  <img src="https://github.com/weenaath/weenaath/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <h3>📊 Activity & Contributions</h3>
+  <img src="https://github.com/weenaath/weenaath/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <div align="center">
