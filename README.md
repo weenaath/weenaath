@@ -40,11 +40,16 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=weenaath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sakindu's Stats" height="180px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=weenaath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sakindu's Stats" height="180" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weenaath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180px"/>
+  <br/> 
 
-  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weenaath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  </a>
+</div> 
 
   <h3>🐍 My Contributions Snake</h3>
   <picture>
