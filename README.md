@@ -1,84 +1,89 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1 align="center">Hello there, I'm SAKINDU! 👋</h1>
-    <h3 align="center">A Cybersecurity Enthusiast Exploring the World of Technology</h3>
-    
-   - 🌱 Currently learning **Information Systems & MERN Stack**
-   - 🧑‍🎓 Undergraduate at **University of Sri Jayewardenepura**
-   - 📫 Reach me: **weenaath@gmail.com**
-   - ⚡ Fact: **Clean Code = Happy Life.**
+<div align="center">
 
-  <p align="center">
-      <img src="https://your-image-url.png" alt="Illustration" width="80%" />
-    </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Hello%20World,%20I'm%20Sakindu!&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Enthusiast%20&%20Full%20Stack%20Dev&descAlignY=55&descAlign=60" alt="Header" width="100%"/>
 
-  <hr />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2386F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Undergraduate+@+USJ+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-  <h2>📊 My Stats</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </p>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark" alt="Top Languages" />
-    </p>
+<div align="center">
+  
+  [![Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/YOUR_USERNAME)
+  
+  ## 👨‍💻 About Me
+  
+  A Cybersecurity Enthusiast Exploring the World of Technology!
 
-  <hr />
+  🧑‍🎓 Undergraduate at University of Sri Jayewardenepura    
+  🌱 Currently learning Information Systems & MERN Stack      
+  🙋🏻 Passionate Volunteer      
+  📫 Reach me at: [weenaath@gmail.com](mailto:weenaath@gmail.com) 
 
-  <h2>🚀 Tech Stack</h2>
+</div>
 
-  <h4>👨‍💻 Programming Languages</h4>
-    <p>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </p>
+<br/>
 
-  <h4>🌐 Frontend</h4>
-    <p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </p>
+<div align="center">
+  <h2>🚀 Tech Stack & Tools</h2>
+  <p>I use a variety of tools to build and secure applications.</p>
+</div>
 
-  <h4>🛠️ Backend & Database</h4>
-    <p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </p>
-    <h4>☁️ Tools & Platforms</h4>
-    <p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    </p>
-    <hr />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,kali,wireshark&perline=9" />
+  </a>
+</div>
 
-  <h2>📫 Connect with Me</h2>
-    <p>
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    </p>
+<br/>
 
-   <hr />
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sakindu's Stats" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180px"/>
 
-  <details>
-      <summary><strong>💡 Fun Facts About Coding</strong></summary>
-      <ul>
-        <li>🧠 The <strong>first programmer</strong> was <em>Ada Lovelace</em>, who wrote algorithms before computers even existed!</li>
-        <li>🐞 The term <strong>"debugging"</strong> came from removing an actual moth from a computer.</li>
-        <li>👋 Most devs start with a simple <code>Hello, World!</code>—a tradition from the 70s.</li>
-        <li>🐍 The language <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> is named after <em>Monty Python</em>, not the snake!</li>
-        <li>💾 <img src="https://img.shields.io/badge/NASA-black?style=flat&logo=nasa&logoColor=white" /> still uses 1970s code in some spacecraft!</li>
-        <li>😂 Joke languages like <img src="https://img.shields.io/badge/LOLCODE-ff69b4?style=flat" /> & <img src="https://img.shields.io/badge/Brainf***-8A2BE2?style=flat" /> exist just for fun.</li>
-        <li>🔁 Most developers spend more time reading code than writing it. Clean code saves lives! 😄</li>
-        <li>⌨️ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> was created by Linus Torvalds in just 10 days.</li>
-        <li>🧩 Programming is logic, creativity, and lots of coffee ☕.</li>
-        <li>💻 You can even invent your own programming language!</li>
-      </ul>
-    </details>
-  </body>
-</html>
+  <br/>
+
+  <h3>🐍 My Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <a href="mailto:weenaath@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/sakindu">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/weenaath">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+<br/>
+
+<details>
+  <summary><strong>⚡ Hidden Gems: Fun Facts</strong></summary>
+  <br />
+  <ul>
+    <li>🕵️‍♂️ The term <strong>"debugging"</strong> came from Grace Hopper removing an actual moth from a computer in 1947.</li>
+    <li>🐍 <strong>Python</strong> is named after <em>Monty Python's Flying Circus</em>, not the snake.</li>
+    <li>💾 The code that took Apollo 11 to the moon is less complex than the code running your toaster today!</li>
+    <li>🔐 <strong>Cybersecurity Tip:</strong> The only truly secure computer is one buried in concrete... and even then, I wouldn't bet on it.</li>
+  </ul>
+</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%"/>
+</div>
