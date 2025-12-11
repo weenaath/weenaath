@@ -14,23 +14,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
+          # Options to match your screenshot
           user: weenaath
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories  # This enables the "Contributed to" list
           config_timezone: Asia/Colombo
           
-          # 1. THE RADAR CHART (Activity Overview)
+          # 1. The Calendar (The "Map" you want)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # 2. The Radar Chart (Activity Overview)
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-
-          # 2. THE MAP (Contribution Calendar) - Restoring this!
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
