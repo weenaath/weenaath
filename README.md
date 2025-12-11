@@ -65,6 +65,11 @@
 <hr/>
 
 <div align="center">
+  <h3>📉 Comprehensive Activity</h3>
+  <img src="https://github.com/weenaath/weenaath/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+<div align="center">
   <a href="mailto:weenaath@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
