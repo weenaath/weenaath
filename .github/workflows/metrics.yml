@@ -23,7 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
           
-          # This controls the "Activity Overview" Radar Chart
+          # 1. THE RADAR CHART (Activity Overview)
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -31,6 +31,6 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
 
-          # This controls the "Contributions" Heatmap (Calendar)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # 2. THE MAP (Contribution Calendar) - Restoring this!
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
